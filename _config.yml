@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I'm PhD student at CSIE, NTUST, Taiwan"
   location         : "Taiwan"
-  employer         : "National Taiwan University of Science and Technology"
+  employer         : # URL
   uri              : # URL
   email            : "misbullah@gmail.com" 
 
